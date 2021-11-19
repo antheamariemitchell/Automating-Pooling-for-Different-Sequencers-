@@ -2,6 +2,7 @@ Automating Pooling for Different Sequencers:
 Purpose: To Automate calculations for different genome sequencing needs
 
 Goals:
+
 -Create a script that will calculate how to evenly or unevenly pool samples for different sequencers
 
 -Provide GUI drop down menu of sequencer options for user to chose from (all have different total read capacities and loading requirements, so selection must then be linked to those details in some way -- library/dictionary/ect)
